@@ -1,0 +1,6 @@
+LSP - Liskov Substitution Principle
+
+"Uma classe derivada pode ser substituível por sua classe base."
+
+A classe filho precisa ter o mesmo comportamento da classe pai. Isso é tão forte, que se a classe pai 
+não funcionasse, a classe filho teria condições de assumir seu comportamento.
