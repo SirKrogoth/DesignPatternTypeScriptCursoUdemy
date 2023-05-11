@@ -1,0 +1,7 @@
+Interface Segregation Principle
+Principio da Segregação de Interfaces ISP
+
+Classes não devem ser forçadas a depender de métodos que não usam. 
+
+Quebrar interfaces grandes em pedaços menores
+
