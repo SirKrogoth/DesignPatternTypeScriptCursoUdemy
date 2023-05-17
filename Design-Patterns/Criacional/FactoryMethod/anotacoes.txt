@@ -1,0 +1,10 @@
+Neste padrão, você deve substituir as chamadas diretas (new) de construção de objetos da classe, 
+para um método intermediário que fará o papel de fábrica, este méto dábrica ou Factory Method,
+irá controlar como criar os objetos que estendem a sua classe serão instanciados. 
+
+
+
+Library:
+https://en.wikipedia.org/wiki/Factory_method_pattern#:~:text=The%20Factory%20Method%20design%20pattern,change%2C%20test%2C%20and%20reuse.
+https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa
+https://refactoring.guru/design-patterns/factory-method

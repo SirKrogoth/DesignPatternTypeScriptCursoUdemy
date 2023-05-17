@@ -1,0 +1,5 @@
+Dependency Inversion Principle
+Principio da inversão de dependência DIP
+
+Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações;
+Abstrações não devem depender de detalhes. 

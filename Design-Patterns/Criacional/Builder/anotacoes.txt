@@ -1,0 +1,4 @@
+No Builder iremos quebrar o processo de criação do objetivo em etapas. Imaginemos uma fábrica de automóveis, 
+precisamos de motor, OK, a classe motor estará disponível. Precisamos de caçamba, afinal estamos fazendo 
+uma caminhonete, temos o Componente Caçamba que está a nossa disposição;. 
+
